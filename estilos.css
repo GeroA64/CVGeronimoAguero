@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nombre{
+    width: 100%;
+    height: 300px;
+    background: #13315C;
+}
+
+.nombre .contenido{
+    padding-top: 50px;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%; 
+}
+
+.nombre .contenido .p1{
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.nombre .contenido .p2{
+    color: white;
+    font-size: 25px;
+}
+
+.info1{
+    background: #13315C;
+    width: 90%;
+    height: 380px;
+    border-radius: 25px;
+    margin:100px;
+    padding: 25px
+}
+.info1 .tituloinfo{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    border-bottom: 2px white solid; 
+}
+.info1 .nomapellido{
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    display: inline;
+}
+
+.info1 .nomapellido1{
+    color: #EEF4ED;
+    display: inline;
+    padding-left: 10px
+}
+
+.info1 spam{
+    width: auto;
+    height: auto;
+    padding: 0 1% 0 1%;
+    background: #B1E5F2;
+    color: black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.info{
+    background: #13315C;
+    width: 90%;
+    height: auto;
+    border-radius: 25px;
+    margin:100px;
+    padding: 25px
+}
+
+.info .tituloinfo{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    border-bottom: 2px white solid; 
+}
+
+.info{
+    background: #13315C;
+    width: 90%;
+    height: auto;
+    border-radius: 25px;
+    margin:100px;
+    padding: 25px
+}
+
+.info .tituloinfo{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    border-bottom: 2px white solid;
+    
+}
+
+.info .nomapellido{
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    display: inline;
+}
+
+.info .nomapellido1{
+    color: #EEF4ED;
+    display: inline;
+    padding-left: 10px
+}
+
+.videop{
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+
+}
+
+
+.info spam{
+    width: auto;
+    height: auto;
+    padding: 0 1% 0 1%;
+    background: #B1E5F2;
+    color: black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.pie{
+    width: 100%;
+    height: 200px;
+    background: #13315C;
+}
+
+.pie .piep1{
+    padding: 50px;
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    text-align: center;
+}
+
+.nombre .img{
+    margin: 1%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    float: right;
+    overflow: hidden;
+}
+
+.nombre .img img{
+    height: 240px;
+    width: 200px;   
+}
+
+.video{
+    float: right;
+    display: inline;
+    padding-right: 0px;
+}
+
+
+.video video{
+    padding-left: 110px;
+    height: 250px;
+    width: 140px;
+}
